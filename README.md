@@ -9,6 +9,10 @@
   <a href="./LICENSE-QCDA">
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
   </a>
+  <a href="https://doi.org/10.5281/zenodo.16298503"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16298503.svg"
+      alt="DOI"></a>
+
+
 
   ---
 
